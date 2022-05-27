@@ -129,7 +129,7 @@ The last update of the Privacy Policy was on: 05/24/2022
 
         <ul className="list-none mb-0">
           <li>
-            <a href="/privacypolicy" className="text-white">Privacy Policy</a>
+            <a href="/applyeasy/privacypolicy" className="text-white">Privacy Policy</a>
           </li>
         </ul>
       </div>
