@@ -25,7 +25,7 @@ function App() {
           {/* This route is for about component 
           with exact path "/about", in component 
           props we passes the imported component*/}
-          <Route path="/applyeasy/privacypolicy" component={Policy} />
+          <Route path="/legal/privacypolicy" component={Policy} />
           <Redirect to="/" />
         </Switch>
       </Router>

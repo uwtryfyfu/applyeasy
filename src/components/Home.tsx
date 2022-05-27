@@ -101,7 +101,7 @@ function App() {
 
         <ul className="list-none mb-0">
           <li>
-            <a href="/applyeasy/privacypolicy" className="text-white">Privacy Policy</a>
+            <a href="/legal/privacypolicy" className="text-white">Privacy Policy</a>
           </li>
         </ul>
       </div>
