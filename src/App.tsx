@@ -16,7 +16,7 @@ function App() {
       <Router>
         <Switch>
           <Route path="/applyeasy" exact component={Home} />
-          <Route path="/legal/privacypolicy" exact component={Policy} />
+          <Route path="/applyeasy/privacypolicy" exact component={Policy} />
         </Switch>
       </Router>
     </div>

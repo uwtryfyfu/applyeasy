@@ -129,7 +129,7 @@ The last update of the Privacy Policy was on: 05/24/2022
 
         <ul className="list-none mb-0">
           <li>
-            <a href="/legal/privacypolicy" className="text-white">Privacy Policy</a>
+            <a href="/applyeasy/privacypolicy" className="text-white">Privacy Policy</a>
           </li>
         </ul>
       </div>
@@ -164,7 +164,7 @@ The last update of the Privacy Policy was on: 05/24/2022
             <a href="https://twitter.com/tryfyfu1" className="text-white">Twitter</a>
           </li>
           <li>
-            <a href="/" className="text-white">Home</a>
+            <a href="/applyeasy" className="text-white">Home</a>
           </li>
         </ul>
       </div>
