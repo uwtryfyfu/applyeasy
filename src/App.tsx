@@ -15,8 +15,8 @@ function App() {
     <div className="App">
       <Router>
         <Switch>
-          <Route exact path="/applyeasy" component={Home} />
-          <Route path="/legal/privacypolicy" component={Policy} />
+          <Route path="/applyeasy" exact component={Home} />
+          <Route path="/legal/privacypolicy" exact component={Policy} />
         </Switch>
       </Router>
     </div>
