@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/applyeasy/static/css/main.2993b986.css",
-    "main.js": "/applyeasy/static/js/main.e6ac0387.js",
+    "main.js": "/applyeasy/static/js/main.ad34ca29.js",
     "static/js/787.41af0c8d.chunk.js": "/applyeasy/static/js/787.41af0c8d.chunk.js",
     "static/media/book-solid.svg": "/applyeasy/static/media/book-solid.87f5b7374fc50b45cd3ed838ec858010.svg",
     "index.html": "/applyeasy/index.html",
     "static/media/shield-solid.svg": "/applyeasy/static/media/shield-solid.ff5604c1d425a647079fe0e4b96fdb3e.svg",
     "main.2993b986.css.map": "/applyeasy/static/css/main.2993b986.css.map",
-    "main.e6ac0387.js.map": "/applyeasy/static/js/main.e6ac0387.js.map",
+    "main.ad34ca29.js.map": "/applyeasy/static/js/main.ad34ca29.js.map",
     "787.41af0c8d.chunk.js.map": "/applyeasy/static/js/787.41af0c8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2993b986.css",
-    "static/js/main.e6ac0387.js"
+    "static/js/main.ad34ca29.js"
   ]
 }
