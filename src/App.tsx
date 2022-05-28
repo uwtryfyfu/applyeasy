@@ -2,7 +2,6 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Redirect,
 } from "react-router-dom";
   
 // import Home component
@@ -13,23 +12,14 @@ import Policy from "./components/PrivatPolicy";
   
 function App() {
   return (
-    <>
-      {/* This is the alias of BrowserRouter i.e. Router */}
+    <div className="App">
       <Router>
         <Switch>
-          {/* This route is for home component 
-          with exact path "/", in component props 
-          we passes the imported component*/}
-          <Route exact path="/" component={Home} />
-            
-          {/* This route is for about component 
-          with exact path "/about", in component 
-          props we passes the imported component*/}
+          <Route exact path="/applyeasy" component={Home} />
           <Route path="/legal/privacypolicy" component={Policy} />
-          <Redirect to="/" />
         </Switch>
       </Router>
-    </>
+    </div>
   );
 }
   
